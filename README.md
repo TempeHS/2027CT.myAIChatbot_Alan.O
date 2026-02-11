@@ -4,7 +4,7 @@ My AI Chatbot
 
 ## Description
 
-An AI Chatbot that helps me learn as a beginner student with and easy understanding.
+An AI Chatbot that helps me learn as a beginner student of code, with and easy understanding and detailed responses.
 
 ## Getting Started
 
